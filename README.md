@@ -75,7 +75,7 @@ These are all the tasks of this project, the ones that are completed link to the
   - R : prints the rot13'ed string
 
 ### 16. * 
-* All the above options work well together.
+* All the options above work well together.
 
 ---
 # Author: 
